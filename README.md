@@ -3,6 +3,7 @@
 
 - 🌱 Desenvolvedor Front-End
 - 💞️ Estudando Javascript
+- 👨‍🎓 Atualmente estudando o mundo do front-end, pode pretendo me profissionalizar
 
 
  <div>
