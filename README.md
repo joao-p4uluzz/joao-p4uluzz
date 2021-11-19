@@ -1,9 +1,14 @@
 ## Olá, me chamo João Paulo!
 
-
-- 🌱 Desenvolvedor Front-End
-- 💞️ Estudando Javascript
-- 👨‍🎓 Atualmente estudando o mundo do front-end, pode pretendo me profissionalizar
+- 👨‍🎓 I am currently studying the following items.
+- 🌱 Git/GitHub
+- 💻 Basic Linux Terminal Commands
+- 🚦  Data Structure array, map, [set] 
+- 💞️ Javascript
+- ⚡ Proxy, VPN, SSH, Socket, Graphql
+- ⚒️ Parsing XML ~ JSON
+- 📚 OOP, Declarative Programming 
+- 🎲 Data Base, SQL, MongoDB
 
 
  <div>
